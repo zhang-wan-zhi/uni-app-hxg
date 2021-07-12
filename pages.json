@@ -1,0 +1,373 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/shouye/shouye",
+			"style": {
+				"navigationBarTitleText": "掐指艺算",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+				// "enablePullDownRefresh": true
+				// "navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": "测试做题",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+				// "navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "登录授权"
+			}
+		},
+		{
+			"path": "pages/yikaoxiangqing_lunbo/yikaoxiangqing_lunbo",
+			"style": {
+				"navigationBarTitleText": "艺考轮播",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+				// "navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/yikaotimu_danxuan/yikaotimu_danxuan",
+			"style": {
+				"navigationBarTitleText": "艺考题目",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+				// "navigationStyle":"custom"
+			}
+		},
+		
+
+		{
+			"path": "pages/wenxuexi/wenxuexi",
+			"style": {
+				"navigationBarTitleText": "问学习",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		{
+			"path": "pages/chongzhizhongxin/chongzhizhongxin",
+			"style": {
+				"navigationBarTitleText": "充值中心",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		{
+			"path": "pages/zhifudingdan/zhifudingdan",
+			"style": {
+				"navigationBarTitleText": "支付订单",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		 {
+			"path": "pages/wenluqu_yucebaogao/wenluqu_yucebaogao",
+			"style": {
+				"navigationBarTitleText": "预测报告",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		}
+
+		, {
+			"path": "pages/gerenzhongxin/gerenzhongxin",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		{
+			"path": "pages/gerenzhongxin_update/gerenzhongxin_update",
+			"style": {
+				"navigationBarTitleText": "个人中心修改",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+
+		{
+			"path": "pages/yijianFangkui/yijianFangkui",
+			"style": {
+				"navigationBarTitleText": "意见反馈",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		{
+			"path": "pages/guanyuwomeng/guanyuwomeng",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+
+		{
+			"path": "pages/yijianFangkuiSuccess/yijianFangkuiSuccess",
+			"style": {
+				"navigationBarTitleText": "意见反馈成功",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+
+		{
+			"path": "pages/yikaoxiangqing/yikaoxiangqing",
+			"style": {
+				"navigationBarTitleText": "艺考动态",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		{
+			"path": "pages/xinggepinggu/xinggepinggu",
+			"style": {
+				"navigationBarTitleText": "艺考做题",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+			}
+
+		},
+		{
+			"path": "pages/test_search/test_search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+
+		},  {
+			"path": "pages/huiyuanzhongxin/huiyuanzhongxin",
+			"style": {
+				"navigationBarTitleText": "会员中心",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+
+		}, {
+			"path": "pages/question/question",
+			"style": {
+				"navigationBarTitleText": "做题",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/wenbaokao/wenbaokao",
+			"style": {
+				"navigationBarTitleText": "问报考",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/chengjidan/chengjidan",
+			"style": {
+				"navigationBarTitleText": "成绩单",
+				"enablePullDownRefresh": false
+			}
+
+		}
+
+	    ,{
+            "path" : "pages/wenluqunew/wenluqunew",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "问录取",
+                "enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+            }
+            
+        },
+		{
+		    "path" : "pages/ceping/ceping",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "测评",
+		        "enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ED5C4D"
+		    }
+		    
+		}
+    ],
+	"subPackages": [{
+		"root": "myPackageA",
+		"pages": [{
+				"path": "pages/xinggepinggu2/xinggepinggu2",
+				"style": {
+					"navigationBarTitleText": "性格评估",
+					"enablePullDownRefresh": false,
+					"navigationBarTextStyle": "white",
+					"navigationBarBackgroundColor": "#ED5C4D"
+					// "navigationStyle":"custom"
+				}
+
+			},
+			{
+				"path": "pages/wenxuexiBaogao/wenxuexiBaogao",
+				"style": {
+					"navigationBarTitleText": "问学习报告",
+					"enablePullDownRefresh": false,
+					"navigationBarTextStyle": "white",
+					"navigationBarBackgroundColor": "#ED5C4D"
+				}
+
+			}, {
+				"path": "pages/wenbaokaonew/wenbaokaonew",
+				"style": {
+					"navigationBarTitleText": "问校考报告",
+					"enablePullDownRefresh": false,
+					"navigationBarTextStyle": "white",
+					"navigationBarBackgroundColor": "#ED5C4D"
+				}
+
+			}
+		    ,{
+                    "path" : "pages/guanzhuyuanxiao/guanzhuyuanxiao",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "关注院校",
+                    "enablePullDownRefresh": false,
+                    "navigationBarTextStyle": "white",
+                    "navigationBarBackgroundColor": "#ED5C4D"
+                }
+                
+                }
+                ,{
+                    "path" : "pages/wengailv/wengailv",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "问概率",
+                    "enablePullDownRefresh": false,
+                    "navigationBarTextStyle": "white",
+                    "navigationBarBackgroundColor": "#ED5C4D"
+                }
+                
+                }
+                ,{
+                    "path" : "pages/wengailvbaogao/wengailvbaogao",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "问录取报告",
+                    "enablePullDownRefresh": false,
+                    "navigationBarTextStyle": "white",
+                    "navigationBarBackgroundColor": "#ED5C4D"
+                }
+                
+                }
+                ,{
+                    "path" : "pages/wenluqu_baokao/wenluqu_baokao",
+                    "style" :                                                                                    
+                {
+                   "navigationBarTitleText": "问报考",
+                   "enablePullDownRefresh": false,
+                   "navigationBarTextStyle": "white",
+                   "navigationBarBackgroundColor": "#ED5C4D"
+                }
+                
+                }
+                ,{
+                    "path" : "pages/wenbaokao_baogao/wenbaokao_baogao",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "问报考报告",
+                    "enablePullDownRefresh": false,
+                    "navigationBarTextStyle": "white",
+                    "navigationBarBackgroundColor": "#ED5C4D"
+                }
+                
+                }
+                ,{
+                    "path" : "pages/wenlvqu_history/wenlvqu_history",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "历史记录",
+                    "enablePullDownRefresh": false,
+                    "navigationBarTextStyle": "white",
+                    "navigationBarBackgroundColor": "#ED5C4D"
+                }
+                
+                }
+            ]
+	}],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#F37372",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/shouye/shouye",
+				"selectedIconPath": "./static/img/tab/shoye.png",
+				"iconPath": "./static/img/tab/shouye2.png",
+				"text": "首页"
+			},
+
+			
+			{
+			    "pagePath": "pages/ceping/ceping",
+			    "selectedIconPath": "./static/img/tab/ceping1.png",
+			    "iconPath": "./static/img/tab/ceping2.png",
+			    "text": "测评"
+			    
+			},
+			{
+				"pagePath": "pages/gerenzhongxin/gerenzhongxin",
+				"selectedIconPath": "./static/img/tab/wode2.png",
+				"iconPath": "./static/img/tab/wode.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#ED5C4D",
+		"backgroundColor": "#F8F8F8",
+		"onReachBottomDistance": 160
+		// "onReachBottomDistance":160
+	}
+}

@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'webfont';
+  font-display: swap;
+  src: url('//at.alicdn.com/t/webfont_0sarff8k5j9j.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/webfont_0sarff8k5j9j.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/webfont_0sarff8k5j9j.woff2') format('woff2'),
+  url('//at.alicdn.com/t/webfont_0sarff8k5j9j.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/webfont_0sarff8k5j9j.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/webfont_0sarff8k5j9j.svg#Alibaba-PuHuiTi-Regular') format('svg'); /* iOS 4.1- */
+}
+
+.web-font {
+	font-family: "webfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke-width: 0.2px;
+	-moz-osx-font-smoothing: grayscale;
+}
+
